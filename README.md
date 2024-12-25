@@ -18,3 +18,15 @@ We write the script for Test Build & Deploy purpose
 ![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/3792b2b5e1a273ef830718ef8a543ca00f7b84fe/Screenshot%202024-12-23%20193439.png)
 After the script, WE pull java code from the github repository by using gitrepo URL
 ![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/3792b2b5e1a273ef830718ef8a543ca00f7b84fe/Screenshot%202024-12-23%20193612.png)
+Run another script for "Test result graph"
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/8a0ffcef5a2640ba41a8e2f3d52fc6927177065c/Screenshot%202024-12-23%20194157.png)
+BUuild the pipeline for the "stage view" IN satge view we see the logs of code
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/8a0ffcef5a2640ba41a8e2f3d52fc6927177065c/Screenshot%202024-12-23%20195105.png)
+Add scrpt for if code fail "send Email notification to devloper team" & If success show the archive artifact 
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/8a0ffcef5a2640ba41a8e2f3d52fc6927177065c/Screenshot%202024-12-23%20214901.png)
+Test result analyzer
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/8a0ffcef5a2640ba41a8e2f3d52fc6927177065c/Screenshot%202024-12-23%20215149.png)
+
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/8a0ffcef5a2640ba41a8e2f3d52fc6927177065c/Screenshot%202024-12-23%20215208.png)
+All build code result in one formate
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/8a0ffcef5a2640ba41a8e2f3d52fc6927177065c/Screenshot%202024-12-23%20215517.png)
