@@ -9,4 +9,4 @@ The `jenkins` directory contains an example of the `Jenkinsfile` (i.e. Pipeline)
 you'll be creating yourself during the tutorial and the `jenkins/scripts` subdirectory
 contains a shell script with commands that are executed when Jenkins processes
 the "Deliver" stage of your Pipeline.
-
+![image alt](https://github.com/omkarkale12/CD-CD-pipeline-using-AWS-and-Jenkins/blob/c7d91ade3676dde78a1c5a6297b11c4ff4c99a5f/Screenshot%202024-12-23%20165332.png)
